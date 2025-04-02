@@ -1,5 +1,5 @@
 {
-  "name": "react-parent-child-example",
+  "name": "react-parent-child",
   "version": "1.0.0",
   "description": "A simple React application demonstrating parent-child component interaction.",
   "main": "index.js",
@@ -19,8 +19,27 @@
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-scripts": "5.0.0"
+    "react-scripts": "^3.0.1"
   },
+  "homepage": "http://your-github-repo-url",
   "devDependencies": {},
-  "homepage": "http://your-github-repo-url"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidcaz/Parent-Child-HW.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sidcaz/Parent-Child-HW/issues"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
